@@ -1,3 +1,5 @@
 Rhymes with cars
+We removed the conflict on this line
 
-We added a different line in the other copy
+We removed the conflict on this line
+
